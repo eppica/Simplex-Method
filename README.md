@@ -46,7 +46,7 @@ To run and edit the project, be sure to have installed in your computer the foll
 After that, you'll need to clone this repo:
 
 ```
-git clone https://github.com/eppica/Simplex.git
+git clone https://github.com/eppica/Simplex-Method.git
 ```
 
 ## Setup
