@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Simplex
+# :chart_with_upwards_trend: Simplex-Method
 
 ## About
 
