@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to solve the Travelling Salesman Problem for the Linear Programming class using an algorithm that implements the Simplex method with the Big M variation. 
+This project aims to solve the [Travelling Salesman Problem](https://github.com/eppica/Simplex-Method/wiki#the-travelling-salesman-problem) for the Linear Programming class using an algorithm that implements the Simplex method with the Big M variation. 
 
 ## Technologies
 
